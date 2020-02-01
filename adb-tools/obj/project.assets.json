@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robin\\Documents\\GitHub\\adb-tools\\adb-tools\\adb-tools.csproj",
+      "projectUniqueName": "D:\\Dokumente\\GitHub\\adb-tools\\adb-tools\\adb-tools.csproj",
       "projectName": "adb-tools",
-      "projectPath": "C:\\Users\\robin\\Documents\\GitHub\\adb-tools\\adb-tools\\adb-tools.csproj",
+      "projectPath": "D:\\Dokumente\\GitHub\\adb-tools\\adb-tools\\adb-tools.csproj",
       "packagesPath": "C:\\Users\\robin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robin\\Documents\\GitHub\\adb-tools\\adb-tools\\obj\\",
+      "outputPath": "D:\\Dokumente\\GitHub\\adb-tools\\adb-tools\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\robin\\AppData\\Roaming\\NuGet\\NuGet.Config",
